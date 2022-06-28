@@ -41,32 +41,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['6287898307350'] //ur owner number
+global.ownername = "Gempyyy"
+global.ytname = "YT: Gempy Ton" //ur yt chanel name
+global.socialm = "IG : @gmpyyy" //ur github or insta name
+global.location = "Surga, dan, Neraka" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.botname = "PENTABOTz" //ur bot name
+global.websitex = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw" //ur website
+global.vidmenu = { url: 'https://a.uguu.se/wNlvYrzP.mp4' } //gif and video menu
+global.packname = "PENTABOT\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "🦄Created by Gempy"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.ownertag = ['6287898307350'] //ur owner tag
+global.ownernummenu = ['6287898307350'] //ur owner number in menu and all
+global.watermark = "PentaBOT." //ur watermark
+global.botscript = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw"
+global.linkz1 = "https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2"
+global.linkz2 = "https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2"
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/menu.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/menu.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/menu.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/menu.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
@@ -95,18 +95,18 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
+    admin: 'FITUR INI KHUSUS ADMIN',
+    botAdmin: 'JADIIN PENTABOT ADMIN DULU',
+    owner: 'FITUR INI KHUSUS GEMPY :3',
+    group: 'FITUR INI KHUSUS GRUP',
+    private: 'FITUR INI KHUSUS PRIVATE CHAT',
     bot: 'This feature is only for bot',
-    wait: 'In process...',
+    wait: 'SABAR YA, PENTA PROCESS...',
     linkm: 'Where is the link?',
     error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    ban: 'KAMU TELAH DI BANNED, SILAHKAN HUBUNGI OWNER UNTUK UNBANNED',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    banChat: 'PENTABOT TELAH DILARANG MERESPON GRUP INI,SILAHKAN HUBUNGI OWNER UNTUK DI UNBAN'
 }
 global.limitawal = {
     premium: "Infinity",
@@ -132,7 +132,7 @@ global.APIs = {
 
 // key
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': 'e87e334de1ea',
 }
 //menu logo maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
